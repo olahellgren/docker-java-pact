@@ -1,6 +1,8 @@
 # docker-java-pact
 Docker repo for pact images
 
+Based on: https://github.com/olahellgren/docker-maven-nodejs
+
 Adds pact for integration testing
 
 ## Included in image
